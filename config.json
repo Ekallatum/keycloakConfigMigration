@@ -1,0 +1,6 @@
+{
+    "originalFilePath": "./realm-to-modify.json",
+    "defaultDestionationFilePath": "./dist/new-real-to-import.json",
+    "defaultRealId": "default",
+    "defaultRealmName": "default"
+}
